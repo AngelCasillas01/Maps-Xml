@@ -5,12 +5,13 @@
 	Score 10 points for your team with one hour limit!.
 </objective>
 <authors>
-	<author contribution="Tourney Edits">vYuri</author>
+    <author uuid="8d071274-2984-4ff3-aa3a-17aba7e40887" />
 </authors>
 <contributors>
-    <contributor contribution="XML Patching">Vixo1</contributor>
-	<contributor contribution="Feedback XML Code">Multi_Viral</contributor>
-	<contributor contribution="Map feedback">Yoyo_</contributor>
+    <contributor uuid="385710d4-a1c8-4e57-9900-1ecd169ab853" contribution="XML Patching" />
+    <contributor uuid="07fa10c6-f564-4630-861e-fe134ae27527" contribution="Map Feedback" />
+    <contributor uuid="16b7c6d2-7ffd-426e-b0d8-dad3f3dc4173" contribution="Map Feedback" />
+    <contributor uuid="f5b1346c-cce5-4ea4-8406-78754932b205" contribution="Map Feedback" />
 </contributors>
 <teams>
 	<team color="dark red" id="red" max="5">Red</team>
