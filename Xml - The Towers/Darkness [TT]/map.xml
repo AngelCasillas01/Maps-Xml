@@ -18,14 +18,13 @@
 </teams>
 <kits>
 	<kit name="obs">
-	    <potion duration="oo" amplifier="5">night vision</potion>
+		<potion duration="oo" amplifier="1">speed</potion>
 	</kit>
     <kit name="spawn">
 		<potion duration="4" amplifier="1">speed</potion>
         <potion duration="2" amplifier="1">increase damage</potion>
         <potion duration="8" amplifier="100">fast digging</potion>
         <potion duration="8" amplifier="1">regeneration</potion>
-		<potion duration="oo" amplifier="5">night vision</potion>
     </kit>
     <kit name="red" parents="spawn">
         <helmet color="cd0000">leather helmet</helmet>
