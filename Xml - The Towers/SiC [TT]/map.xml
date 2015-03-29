@@ -86,10 +86,10 @@
 	<kills>0</kills>
 	<deaths>0</deaths>
     <box value="1" filter="no-blue" cooldown="10">
-		    <cuboid name="redscore1" min="-82,200,1151" max="-84,201,1153"/>
+		    <cuboid name="redscore1" min="-86,201,1154" max="-82,200,150"/>  
     </box>
     <box value="1" filter="no-red" cooldown="10">  
-            <cuboid name="bluescore1"  min="83,200,1153" max="85,201,1151"/>		
+            <cuboid name="bluescore1"  min="86,201,1150" max="82,200,1154"/>  			
     </box>
 </score>
 <regions>
