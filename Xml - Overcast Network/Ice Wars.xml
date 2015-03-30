@@ -125,12 +125,12 @@
   <spawns>
     <spawn team="red" kit="red">
       <regions yaw="0">
-        <cuboid min="3,10,-93" max="0,10,-90" />
+        <cuboid min="3,11,-93" max="0,11,-90" />
       </regions>
     </spawn>
     <spawn team="blue" kit="blue">
       <regions yaw="-180">
-        <cuboid min="1,10,50" max="4,10,47" />
+        <cuboid min="1,11,50" max="4,11,47" />
       </regions>
     </spawn>
     <default>
