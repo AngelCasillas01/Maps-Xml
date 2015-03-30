@@ -44,12 +44,12 @@
 <spawns>
 	<spawns kit="blue">
 		<spawn team="blue" kit="blue" yaw="-90">
-			<point>-84.5,192,1152.5</point>
+			<point>-84.5,193,1152.5</point>
 		</spawn>
 	</spawns>
 	<spawns kit="red">
 		<spawn team="red" kit="red" yaw="90">
-			<point>84.5,192,1152.5</point>
+			<point>84.5,193,1152.5</point>
 		</spawn>
 	</spawns>
 	<default kit="obs" yaw="180">
