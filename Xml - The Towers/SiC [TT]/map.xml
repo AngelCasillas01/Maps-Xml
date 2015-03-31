@@ -105,12 +105,10 @@
     <apply enter="only-blue" message="You may not enter your own scorebox!">
         <cuboid min="87,200,1155" max="80,204,1149"/>  	
     </apply>
-        </apply>
-        <apply enter="only-blue" message="You can't place blocks on scoreboxes!">
+    <apply enter="only-blue" message="You can't place blocks on scoreboxes!">
         <cuboid min="-86,202,1150" max="-82,199,1154"/>   
     </apply>
-        </apply>
-        <apply enter="only-red" message="You can't place blocks on scoreboxes!">
+    <apply enter="only-red" message="You can't place blocks on scoreboxes!">
         <cuboid min="86,202,1154" max="82,199,1150"/>   
     </apply>
 	
