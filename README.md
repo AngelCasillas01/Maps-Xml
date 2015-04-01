@@ -7,3 +7,8 @@ Here you'll find some maps and xml to download. Only be maps with the permission
 - Be sure that the same issue isn't reported.
 - Upload your XML version to a website like [pastebin](https://pastebin.com)
 - If is possible, upload a video proof to [youtube](https://youtube.com) and make your video unlisted, post the link of the video when it's already on youtube.
+
+
+# Help needed
+- If you need help in creating your map (xml) we can help.
+- Publish needed assistance in [issue] (https://github.com/vYuri/Maps-Xml/issues) and we will help. Coloce a reference to your map so we could help, it is necessary to place the download.
