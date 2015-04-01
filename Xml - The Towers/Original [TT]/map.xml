@@ -1,5 +1,5 @@
 <map proto="1.3.6">
-<name>Original [TT]</name>
+<name>The Towers</name>
 <version>1.0.5</version>
 <objective>
 	Score 10 points for your team with one hour limit!.
@@ -11,6 +11,7 @@
     <contributor uuid="385710d4-a1c8-4e57-9900-1ecd169ab853" contribution="XML Patching" />
     <contributor uuid="e0c37fc2-1093-4189-a1e8-14277698ff4d" contribution="Feedback XML Code" />
 </contributors>
+<time result="objectives">60m</time>
 <teams>
 	<team color="dark red" id="red" max="5">Red</team>
 	<team color="blue" id="blue" max="5">Blue</team>
