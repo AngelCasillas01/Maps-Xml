@@ -13,7 +13,6 @@
     <contributor uuid="16b7c6d2-7ffd-426e-b0d8-dad3f3dc4173" contribution="Map Feedback" />
     <contributor uuid="f5b1346c-cce5-4ea4-8406-78754932b205" contribution="Map Feedback" />
 </contributors>
-<time result="objectives">60m</time>
 <teams>
 	<team color="dark red" id="red" max="5">Red</team>
 	<team color="blue" id="blue" max="5">Blue</team>
