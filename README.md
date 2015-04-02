@@ -11,7 +11,7 @@ Here you'll find some maps and xml to download. Only be maps with the permission
 
 # Help needed
 - If you need help in creating your map (xml) we can help.
-- Publish needed assistance in [issue] (https://github.com/vYuri/Maps-Xml/issues) and we will help. Coloce a reference to your map so we could help, it is necessary to place the download.
+- Publish needed assistance in [issue] (https://github.com/vYuri/Maps-Xml/issues) and we will help. Place a reference to your map so we could help, it is necessary to place the download.
 
 
 # How to Download
