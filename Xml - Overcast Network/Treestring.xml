@@ -21,4 +21,5 @@
         <item slot="2" damage="-3000">diamond pickaxe</item>
         <item slot="3" damage="-3000">stone axe</item>
         <item slot="4" amount="64">17</item>
+        <item slot="28" amount="1">arrow</item>
     </kit>
