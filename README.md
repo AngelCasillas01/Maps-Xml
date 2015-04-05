@@ -16,3 +16,8 @@ Here you'll find some maps and xml to download. Only be maps with the permission
 
 # How to Download
 - To download click right where it says: "Dowload ZIP" When it downloaded you can open the .ZIP file and enter into folders for the maps.
+
+# Pull requests
+- Make sure your pull request have only 1 commit.
+- Make sure that if you are closing an issue with the pull request, please refer the issue on it.
+- If a pull request was closed, don't submit it again, will be closed.
